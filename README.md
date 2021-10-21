@@ -10,6 +10,6 @@ $git clone https://github.com/Ainx-BOT/igsearch
 
 $cd igsearch
 
-$pip install -r requirements.txt
+$pip install requests
 
 $python igsearch.py
